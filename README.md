@@ -1,2 +1,3 @@
 # ugeopgave1-variable
-første ugeopgave
+Zacharias Toft Thage-Jørgensen
+
